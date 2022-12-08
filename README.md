@@ -1,5 +1,5 @@
 #VTiP-402 Balasanyan Vladimir 
-Work 2 Var 13
+Работа 2
 
 ![screenshot](Screenshot.png)
 ![screenshot](Screenshot1.png)
